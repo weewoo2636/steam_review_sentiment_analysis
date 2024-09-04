@@ -1,7 +1,7 @@
 
 # Steam Review Sentiment Analysis
 
-This program was made to help a fictional game development studio to get a better grasp of how their game is perceived on the Steam platform, by creating a steam review sentiment analysis, that could help the studio make a better decision. The model got 0.81 f1-score.
+This project was made to help a fictional game development studio to get a better grasp of how their game is perceived on the Steam platform, by creating a steam review sentiment analysis, that could help the studio make a better decision. The model got 0.81 f1-score.
 
 
 ## Acknowledgements
