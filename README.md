@@ -45,32 +45,20 @@ To see the deployed model, visit here: [link_to_deployed_model](https://huggingf
 ## Files Overview
 
 1. **`main_notebook.ipynb`**: Primary Jupyter Notebook containing the full pipeline for data preprocessing, model training, and sentiment analysis of Steam reviews.
-   
 2. **`inference_notebook.ipynb`**: Notebook for loading the pre-trained model and making predictions on new Steam review data.
-
 3. **`train.csv`**: The dataset used for training the sentiment analysis model, containing raw review data.
-
 4. **`train_trimmed.csv`**: A cleaned or smaller version of the training dataset to facilitate quicker model training.
-
 5. **`model.h5`**: Saved Keras model file, used for sentiment prediction during inference or deployment.
-
-6. **`vectorizer.pkl`**: A Pickle file that stores the vectorizer (e.g., `TfidfVectorizer`) for transforming review text into numerical form for model input.
-
+6. **`vectorizer.pkl`**: A Pickle file that stores the vectorizer for transforming review text into numerical form for model input.
 7. **`url.txt`**: Contains the deployment URL, possibly a link to the model hosted on platforms like Hugging Face Spaces.
-
 8. **`eda_1.png`, `eda_2.png`, `eda_3.png`**: Images displaying results from exploratory data analysis (EDA).
-
 9. **`model.png`**: A visual representation of the machine learning model's architecture.
-
 10. **`README.md`**: Project documentation providing an overview of the project, instructions for setup, and performance details.
 
 ### `/deployment` Folder
 
-11. **`app.py`**: The main application file (likely for Streamlit) that contains code for the web interface where users can input reviews and get sentiment predictions from the trained model.
-
+11. **`app.py`**: The main application file that contains code for the web interface where users can input reviews and get sentiment predictions from the trained model.
 12. **`requirements.txt`**: Lists the Python dependencies and packages required to run the application and model. It ensures the deployment environment installs the correct libraries.
-
-13. **`Procfile`**: A file likely used for deploying the app on platforms like Heroku. It specifies the commands to start the web application.
 
 
 ## Authors
