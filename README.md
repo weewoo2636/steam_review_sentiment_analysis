@@ -8,9 +8,9 @@ This project was made to help a fictional game development studio to get a bette
 
 With the vast amount of data generated from user reviews on Steam, both developers and players benefit from systems that can aggregate and summarize the sentiment expressed. This project is motivated by several key factors:
 
-Game Developers: Developers can use sentiment analysis to better understand player feedback, helping with game updates, bug fixes, or future releases.
-Players: Players can get a quick, high-level overview of how others feel about a game before making a purchase decision.
-Market Analysis: Sentiment trends can be correlated with game sales, updates, or marketing efforts, providing valuable insights into market dynamics.
+- Game Developers: Developers can use sentiment analysis to better understand player feedback, helping with game updates, bug fixes, or future releases.
+- Players: Players can get a quick, high-level overview of how others feel about a game before making a purchase decision.
+- Market Analysis: Sentiment trends can be correlated with game sales, updates, or marketing efforts, providing valuable insights into market dynamics.
 
 
 ## Acknowledgements
